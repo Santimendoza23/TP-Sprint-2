@@ -1,0 +1,91 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans:opsz@9..40&display=swap');
+
+Body{ 
+    background-color: green
+}
+.Bici{
+    font-family: 'DM Sans', sans-serif;
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+    align-items: stretch;
+    color: aliceblue;
+    padding: 15 px;
+}
+.Opciones{
+    font-family: 'DM Sans', sans-serif;
+    display: flex;
+    justify-content: space-around;
+    color: aliceblue;
+}
+
+.Ultimo{
+    font-family: 'DM Sans', sans-serif;
+    display: flex;
+    justify-content: space-evenly;
+    color: aliceblue;
+}
+.Metodo{
+    font-family: 'DM Sans', sans-serif;
+    display: flex;
+    justify-content: center;
+    color: aliceblue;
+}
+.Elegi{
+    font-family: 'DM Sans', sans-serif;
+    display: flex;
+    justify-content: center;
+    color: aliceblue;
+}
+.Contact{
+    font-family: 'DM Sans', sans-serif;
+    display: flex;
+    justify-content: center;
+    color: aliceblue;
+}
+.Oportunidades{
+    font-family: 'DM Sans', sans-serif;
+    display: flex;
+    flex-direction: column;
+    color: aliceblue;
+}
+.RedSocial a{
+    display: inline-block;
+    width: 50px;
+    height: 50px;
+    line-height: 45 px;
+    color: rgb(253, 253, 253);
+    margin-right: 10px;
+    text-align: center;
+    text-decoration: none;
+}
+h1{
+    font-family: 'DM Sans', sans-serif;
+    color: aliceblue;
+ 
+}
+h2{
+     font-family: 'DM Sans', sans-serif;
+    color: aliceblue;
+    text-align: center;
+    padding: 35px;
+}
+p{ 
+    font-family: 'DM Sans', sans-serif;
+    color: aliceblue;
+}
+label{
+    font-family: 'DM Sans', sans-serif;
+    color: aliceblue;
+}
+legend{
+    font-family: 'DM Sans', sans-serif;
+    color: aliceblue;
+}
+.Opciones a{
+    font-family: 'DM Sans', sans-serif;
+    color: aliceblue;
+}
+
+    
+    
